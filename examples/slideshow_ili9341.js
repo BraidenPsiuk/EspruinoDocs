@@ -14,7 +14,7 @@ Wiring
 ------
 
 * Put an Espruino [[Pico]] into breadboard, with the USB connector facing left
-* Place the [[ILI9341]] into the breadboard as show in the image - directly above the Pico
+* Place the [[ILI9341]] into the breadboard as shown in the image - directly above the Pico
 * Connect the top-left pin of the LCD (labeled VCC) to 3.3v on the Pico
 * Connect the top-2nd-left pin of the LCD (labeled GND) to GND on the Pico
 * Now connect the 4 end pins on the LCD (for the SD card) as follows:
